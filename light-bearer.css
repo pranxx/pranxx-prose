@@ -1,0 +1,10 @@
+body{
+  background-image: url("C:/Users/franxx/Documents/coding practice/light-bearer-bg.gif");
+  background-size: cover;
+  font-family: Times New Roman;
+}
+h1, p{
+  color: #ffa700;
+  font-style: italic;
+  text-align: center;
+}

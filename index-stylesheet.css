@@ -1,0 +1,17 @@
+body{
+  background-image: url("C:/Users/franxx/Documents/coding practice/bg.gif");
+  background-size: cover;
+  font-family:Times New Roman;
+}
+h1, p {
+  color: #000000;
+  text-align: center;
+}
+h3{
+  color:#ee82ee;
+  text-align: left;
+}
+title{
+  color: #ffcf33;
+  text-align: center;
+}
